@@ -208,4 +208,6 @@ footer{
     display: flex;
     width: auto;
     height: 50px;
+    justify-content: center;
+    align-items: center;
 }
